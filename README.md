@@ -1,9 +1,6 @@
 
 
 <center>
-	<p align="middle">
-<img src="" data-canonical-src="https://i.imgur.com/i3r2p1b.gif?noredirect" style="max-width: 100%;">
-<p align="middle">
 
 ```bash
 
