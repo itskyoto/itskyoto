@@ -7,7 +7,7 @@
 > neofetch
 
 ```
-<img src="https://cdn.discordapp.com/attachments/882350603601330227/946490949406716034/70370908.jpg" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://preview.redd.it/gj93a71wfk411.jpg?auto=webp&s=d4bee383b7fcd589d4c1392a8f7076297c5cc58c" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
